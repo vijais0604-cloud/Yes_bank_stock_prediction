@@ -77,7 +77,7 @@ The model with the best performance across these metrics was selected as the fin
 
 ⸻
 
-##Data Visualization & Analysis
+## Data Visualization & Analysis
 
 Extensive visualizations were created to understand stock behavior and trends, including:
 	•	Monthly stock trend plots
